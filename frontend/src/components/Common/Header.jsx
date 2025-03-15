@@ -1,9 +1,14 @@
-import React from 'react'
+const Header = ()  => {
 
-const Header = () => {
-  return (
-    <div>Header</div>
-  )
-}
+return (
+<div>
+{ /*Topbar*/}
+{ /*Navbar*/} 
+{ /*Cart Drawer*/}
 
-export default Header
+</div>
+
+);
+
+
+};
